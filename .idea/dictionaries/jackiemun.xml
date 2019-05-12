@@ -1,0 +1,36 @@
+<component name="ProjectDictionaryState">
+  <dictionary name="jackiemun">
+    <words>
+      <w>addop</w>
+      <w>assignop</w>
+      <w>backpatch</w>
+      <w>backpatching</w>
+      <w>cmpu</w>
+      <w>currentfunction</w>
+      <w>doubledot</w>
+      <w>efalse</w>
+      <w>endmarker</w>
+      <w>endoffile</w>
+      <w>etrue</w>
+      <w>etype</w>
+      <w>intconstant</w>
+      <w>lbracket</w>
+      <w>linecount</w>
+      <w>lparen</w>
+      <w>mulop</w>
+      <w>paramcount</w>
+      <w>paramstack</w>
+      <w>procbegin</w>
+      <w>procend</w>
+      <w>pushback</w>
+      <w>pushbackreader</w>
+      <w>rbracket</w>
+      <w>realconstant</w>
+      <w>relop</w>
+      <w>rparen</w>
+      <w>typecheck</w>
+      <w>unaryminus</w>
+      <w>unaryplus</w>
+    </words>
+  </dictionary>
+</component>

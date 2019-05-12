@@ -1,0 +1,29 @@
+{This is a comment} 
+
+Hello 
+World 
+PROGRAM {Should not show up} 
+
+x := 5E+10; 
+l := -10; 
+a := 3; 
+b := 60.6; 
+c := 15e2; 
+
+(-1) + 55 
+18 > 5 
+
+... 
+do {
+	Comment Comment Comment 
+} 
+
+100.. 
+h := 10 DIV 2; 
+
+OR
+
++ = := <= 
+
+
+
